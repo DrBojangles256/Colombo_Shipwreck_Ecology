@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "name": "Colombo study sites \u2014 Table 1",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.82795,
+          6.814033333333334
+        ]
+      },
+      "properties": {
+        "id": "NW",
+        "name": "Nilgiri",
+        "habitat": "Wreck",
+        "depth_min": 23,
+        "depth_max": 32,
+        "length_m": 54.9,
+        "beam_m": 11.9,
+        "sunk": "1997",
+        "built": "1976",
+        "type": "Utility barge",
+        "description": "Upside down on sand; soft corals on the hull and a large swim-through. The narrative calls this vessel a tugboat."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.84016666666666,
+          6.787
+        ]
+      },
+      "properties": {
+        "id": "TSW",
+        "name": "Thermopylae (T) Sierra",
+        "habitat": "Wreck",
+        "depth_min": 6,
+        "depth_max": 23,
+        "length_m": 155,
+        "beam_m": 27,
+        "sunk": "August 2012",
+        "built": "1985",
+        "type": "Bulk carrier",
+        "description": "Cargo holds and overhangs create complex habitat; highest vertical relief among Colombo wrecks."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.82773333333333,
+          6.808016666666667
+        ]
+      },
+      "properties": {
+        "id": "MW",
+        "name": "Medhufaru",
+        "habitat": "Wreck",
+        "depth_min": 14,
+        "depth_max": 30,
+        "length_m": 77,
+        "beam_m": 11.8,
+        "sunk": "May 2009",
+        "built": "1976",
+        "type": "General cargo ship",
+        "description": "Open cabins, cargo holds and intact superstructure; little hard or soft coral."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.834,
+          6.82345
+        ]
+      },
+      "properties": {
+        "id": "BR",
+        "name": "Barracuda Reef",
+        "habitat": "Reef",
+        "depth_min": 20,
+        "depth_max": 25,
+        "length_m": null,
+        "beam_m": null,
+        "sunk": "",
+        "built": "",
+        "type": "Sandstone reef",
+        "description": "Part of a continuous sandstone ridge parallel to the coast; cracks, small overhangs and limited vertical relief."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.82383333333334,
+          6.86575
+        ]
+      },
+      "properties": {
+        "id": "AP",
+        "name": "Anchor Point",
+        "habitat": "Reef",
+        "depth_min": 20,
+        "depth_max": 23,
+        "length_m": null,
+        "beam_m": null,
+        "sunk": "",
+        "built": "",
+        "type": "Sandstone reef",
+        "description": "Part of the same approximately 5 km sandstone ridge, colonized by corals, gorgonians and sea whips."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.83205,
+          6.838816666666666
+        ]
+      },
+      "properties": {
+        "id": "NR",
+        "name": "New Reef (Mid Point)",
+        "habitat": "Reef",
+        "depth_min": 20,
+        "depth_max": 25,
+        "length_m": null,
+        "beam_m": null,
+        "sunk": "",
+        "built": "",
+        "type": "Sandstone reef",
+        "description": "A surveyed section of the continuous sandstone ridge, not a mapped reef boundary."
+      }
+    }
+  ]
+}
